@@ -29,3 +29,10 @@ Thumbs.db
 
 # Maven
 .mvn/wrapper/maven-wrapper.jar
+
+.prd.md
+.decisions.md
+.design.md
+.flow.md
+.tech.md
+.update.md
